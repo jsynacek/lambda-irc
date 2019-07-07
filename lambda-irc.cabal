@@ -1,6 +1,6 @@
 name:                lambda-irc
 version:             0.1
-homepage:            https://github.com/jsynacek/lambda-irc#readme
+homepage:            https://github.com/jsynacek/lambda-irc
 license:             BSD3
 license-file:        LICENSE
 author:              Jan Synáček
