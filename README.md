@@ -57,3 +57,16 @@ unknown command: Give me a cookie!
 /quit :I'm tired...
 <no output, bot disconnects from the server>
 ```
+
+# TBI
+
+Extend the program to accept an additional command `!dict` which would use a web-based dictionary and display translations.
+
+For example, `!dict en cz fortune` might use `https://slovnik.seznam.cz/en-cz/?q=fortune` and display something like:
+```
+(small) fortune (celé) jmění, spousta peněz, majlant
+(good) fortune štěstí přízeň osudu
+fortunes úspěchy, zdary
+štěstěna
+tell sb's fortune věštit komu osud z dlaně ap.
+```
